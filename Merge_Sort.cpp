@@ -7,7 +7,7 @@ void print(int array[], int size)
         cout << array[i] << " ";
     }
     cout << endl;
-} unnecessary
+}
 void merge(int array[], int lb, int mid, int ub)
 {
     int i, j, k; // indexes
